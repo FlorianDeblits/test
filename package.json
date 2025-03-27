@@ -1,0 +1,19 @@
+{
+  "name": "bs-template",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@popperjs/core": "2.11.8",
+    "bootstrap": "5.3.3",
+    "sharp": "^0.33.5",
+    "vite-plugin-image-optimizer": "^1.1.8"
+  },
+  "devDependencies": {
+    "sass": "1.86.0",
+    "vite": "6.2.3"
+  }
+}
